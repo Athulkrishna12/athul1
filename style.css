@@ -1,0 +1,76 @@
+.main{
+    height: 700px;
+    width: 100%;
+   background-color:rgb(229, 224, 224) ; 
+   display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainbox{
+    width: 50%;
+    height: 500px;
+    background-color: yellow;
+}
+.top{
+    width: 100%;
+    height: 75px;
+    background-color: pink;
+}                     
+.firstbox{
+    width: 30%;
+    height: 210px;
+    background-color: red;
+}
+.secondbox{
+    width: 40%;
+    height: 210px;
+    background-color: green;
+
+}
+.parent{
+    display: flex;
+}
+.thirdbox{
+    width: 30%;
+    height: 425px;
+    background-color: blue;
+}
+.bigger{
+    width: 100%;
+    height: 210px;
+    background-color: orange;
+    
+}
+.big{
+    width:100%  ;
+    height:50%;
+    background-color: orange;   
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.small{
+    width:100%  ;
+    height:50%;
+    background-color: orange;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.small2{
+    width:100px  ;
+    height:75px;
+    background-color: rgb(255, 0, 179);
+}
+.small3{
+    width:75% ;
+    height:75px;
+    background-color: rgb(255, 0, 179);
+}
+.big2{
+    width:75%  ;
+    height:50px;
+    background-color: rgb(255, 0, 234);
+}
+
+
